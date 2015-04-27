@@ -1,0 +1,3 @@
+${workspace_loc:/sharepoint}
+clean tomcat7:redeploy
+skip tests
